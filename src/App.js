@@ -11,12 +11,12 @@ function App() {
       <h1>Make Short</h1>
       </div>
       <header className="App-header">
+        <h1> Url-Shotner</h1> 
         <div className={'fo sideheadings'}>A smarter way to share and store your url</div>
-        <div className={'fo2 sideheadings'}>Shorten boost share</div>
         <UrlShort />
       </header>
       
-    </div>
+    </div>   
   );
 }
 
