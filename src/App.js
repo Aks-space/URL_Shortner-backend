@@ -8,10 +8,11 @@ function App() {
   return (
     <div className="App">
       <div className={'Headdiv'}>
-      <h1>Make Short</h1>
+      <h1>Url-Shotner</h1>
+       <p> by team-c </p>
+
       </div>
       <header className="App-header">
-        <h1> Url-Shotner</h1> 
         <div className={'fo sideheadings'}>A smarter way to share and store your url</div>
         <UrlShort />
       </header>
